@@ -9,7 +9,7 @@
 ## Trust me, I did this using Adobe Illustrator. ONLY!
 ![plot](https://github.com/BhuvaneshDaran/My-Data-Viz-Projects/blob/main/images/2021_BDOR.png)
 
-## Python: One for 360scouting. Yet to one like this personally for me.
+## Python: One for 360scouting. Yet to make one like this personally for me.
 ![plot](https://github.com/BhuvaneshDaran/My-Data-Viz-Projects/blob/main/images/Bhuvanendiran_V%20Data%20Visualization%20Expert_CB%20plot.png)
 
 ## Python: :')
